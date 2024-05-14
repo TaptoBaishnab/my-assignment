@@ -1,0 +1,41 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+/* header related style  */
+.header{
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 800px;
+    margin: auto;
+}
+.header-info{
+    text-align: right;
+    text-align:top;
+    padding-right: 200px;
+    padding-top: 150px;
+    padding-left: 1000px;
+}
+.header-title{
+    font-size: 50px;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+.header-description{
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+
+}
+.btn-primary{
+    padding:15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 0px;
+}
+.btn-primary:hover{
+    border: 2px solid #005fac;
+
+}
