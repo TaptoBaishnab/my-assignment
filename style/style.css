@@ -39,3 +39,55 @@ body{
     border: 2px solid #005fac;
 
 }
+/* section style */
+.section{
+    display: flex;
+    width: 1050px;
+    height: 720px;
+    border: 2px solid rebeccapurple;
+    margin: 100px auto;
+}
+
+
+.div-right{
+    padding-top: 200px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+    
+}
+.section ul li{
+    font-size: 12px;
+    color: rgb(12, 14, 15);
+    font-weight: 400;
+    
+}
+.title-info{
+    font-size: 40px;
+}
+.title-description{
+    font-size: 25px;
+    color: #757575;
+}
+
+/* my plan style  */
+ .title{
+    text-align: center;
+    display: block;
+    font-size: 35px;
+    margin-bottom: 5px;
+ }
+.my-plan-discription{
+    display: flex;
+    gap: 24px;
+    width: 850px;
+    border: 2px solid red;
+    margin: auto;
+    justify-content: space-between;
+}
+.learn{
+    padding:30px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow:0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+   
+}
